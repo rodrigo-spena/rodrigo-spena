@@ -1,16 +1,22 @@
-## Hi there 👋
+# ¡Hola! Soy Rodrigo 👋
 
-<!--
-**rodrigo-spena/rodrigo-spena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy estudiante de Ingeniería en Computación en la Universidad de la República y docente de Ciencias de la Computación y POITE en ANEP.
 
-Here are some ideas to get you started:
+## Sobre mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Me interesa el desarrollo de software, el análisis de datos y la robótica educativa.
+- Tengo conocimientos de Python y SQL.
+- Actualmente estoy fortaleciendo mis habilidades mediante proyectos prácticos.
+
+## Proyecto actual
+
+Estoy comenzando a desarrollar un sistema de gestión para un almacén familiar, orientado al control de productos, stock, ventas, caja y retiros familiares. Planeo construirlo con Python, Flask y SQLite.
+
+## Formación complementaria
+
+- Google Data Analytics Professional Certificate
+- Python for Everybody Specialization — University of Michigan
+
+## Contacto
+
+- [LinkedIn](https://www.linkedin.com/in/rodrigo-spena)
